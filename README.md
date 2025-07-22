@@ -1,29 +1,32 @@
 <div style="text-align: center; font-family: Arial, sans-serif;">
-  <!-- Header Image -->
-  <img 
-    src="https://github.com/user-attachments/assets/10d92461-ecc4-4502-add2-6d3fcf14db5e"
-    alt="Header" 
-    style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
-  />
+  
+<img 
+  src="https://github.com/user-attachments/assets/10d92461-ecc4-4502-add2-6d3fcf14db5e"
+  alt="Header" 
+  style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+/>
 
-  <!-- Greeting -->
-  <h1 style="margin-top: 20px; font-size: 28px; color: #333;">🙋‍♂️ Hello there, my name is Tyo</h1>
+<h1 style="margin-top: 20px; font-size: 28px; color: #333;">🙋‍♂️ Hello there, my name is Tyo</h1>
 
-  <!-- Badges Section -->
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://ko-fi.com/arthantyo" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white" 
-        alt="Support me on Ko-Fi"
-      />
-    </a>
-    <a href="https://bsky.app/profile/nowheretyo.tech" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/Bluesky-0285FF?style=plastic&logo=Bluesky&logoColor=white" 
-        alt="Follow me on Bluesky"
-      />
-    </a>
-  </div>
+<!-- Badges Section -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <a href="https://ko-fi.com/arthantyo" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white" 
+      alt="Support me on Ko-Fi"
+      style="height: 16px;"
+    />
+  </a>
+
+  <a href="https://x.com/arthantyo" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Follow-X-000000?style=plastic&logo=x&logoColor=white" 
+      alt="Follow me on X"
+      style="height: 16px;"
+    />
+  </a>
+</div>
+
 
 
   <!-- Introduction -->
